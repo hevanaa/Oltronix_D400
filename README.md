@@ -4,6 +4,8 @@ This repository contains a redesigned regulator board for the Oltronix D400-007D
 
 The goal of this redesign is improved safety margins, better component availability, and improved PCB high-voltage layout compared to the original design.
 
+![PCB](docs/board.png)
+
 ---
 
 ## Project structure
