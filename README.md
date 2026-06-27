@@ -98,6 +98,12 @@ Part 2 contains practical component substitutions and ordering examples.
 
 ## License
 
+This repository contains a redesigned replacement for the regulator board used in the Oltronix D400-007D power supply.
+
+The original device and schematic are the property of their respective rights holders and are not included under this license.
+
+This project covers only the original work created in this repository, including the PCB layout, modified schematic, BOM, and documentation.
+
 This project is licensed under the CERN-OHL-S v2 (Strongly Reciprocal).
 
 See `LICENSE` file for details.
