@@ -80,6 +80,20 @@ https://baldpenguin.blogspot.com/2026/04/another-oltronix-power-supply-d400-007d
 
 ---
 
+## External documentation
+
+Detailed design rationale, repair notes, and BOM information are documented in accompanying articles:
+
+- Part 1 (design analysis and failure modes):  
+  https://baldpenguin.blogspot.com/2026/04/another-oltronix-power-supply-d400-007d.html
+
+- Part 2 (repair implementation and BOM details):  
+  https://baldpenguin.blogspot.com/2026/06/repairing-oltronix-d400-007d-part-2.html
+
+Part 2 contains practical component substitutions and ordering examples.
+
+---
+
 ## License
 
 This project is licensed under the CERN-OHL-S v2 (Strongly Reciprocal).
